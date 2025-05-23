@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Netflix</string>
+    <string name="lan_amento">Lançamentos</string>
+    <string name="minha_lista">Minha Lista</string>
+    <string name="filmes">Filmes</string>
+    <string name="series">Series</string>
+    <string name="minha_lista_botão">Minha Lista</string>
+    <string name="assistir">Assistir</string>
+    <string name="detalhes">Detalhes</string>
+    <string name="estev_o_nascimento_sefione">Estevão Nascimento Sefione</string>
+</resources>
